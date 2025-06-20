@@ -68,7 +68,7 @@ python prediction.py --mode <test mode>--img_path <Your img dir> --label_dir <Yo
 | Patch | **0.727** | 42.582 | **0.613** | **0.680** | **0.440** |
 |Average | 0.623 | 87.696 | 0.393 | 0.337 | 0.159 |
 
-<img src="materials\sample.png">
+<img src="materials\samples.png">
 
 ### 4.作者
 
@@ -77,6 +77,8 @@ python prediction.py --mode <test mode>--img_path <Your img dir> --label_dir <Yo
 - Github : [HKP-791](https://github.com/HKP-791)
 
 ### 5.参考
+
+该代码基于(segformer)[https://github.com/NVlabs/SegFormer],感谢作者们的出色贡献。
 
 参考项目来源：
 ```
