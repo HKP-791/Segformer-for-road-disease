@@ -78,7 +78,7 @@ python prediction.py --mode <test mode>--img_path <Your img dir> --label_dir <Yo
 
 ### 5.参考
 
-该代码基于(segformer)[https://github.com/NVlabs/SegFormer],感谢作者们的出色贡献。
+该代码基于[segformer](https://github.com/NVlabs/SegFormer),感谢作者们的出色贡献。
 
 参考项目来源：
 ```
